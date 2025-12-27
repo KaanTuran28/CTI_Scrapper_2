@@ -1,0 +1,92 @@
+
+--------------------------------------------------
+        DARK WEB FORUM SCAN RAPORU
+--------------------------------------------------
+Tarih: 2025-1227-12 18:25:58
+Tor Port: 9150
+Çıkış IP Durumu: Gizli (Tor Exit Node)
+Toplam Hedef: 13
+--------------------------------------------------
+HEDEFLER VE BAŞLANGIÇ DURUMLARI:
+[1] Dark_Net_Army Forum
+	URL: http://darknet77vonbqeatfsnawm5jtnoci5z22mxay6cizmoucgmz52mwyad.onion/
+	Durum: BEKLİYOR
+[2] BBC
+	URL: https://www.bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion/
+	Durum: BEKLİYOR
+[3] Reddit Forum
+	URL: https://www.reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/
+	Durum: BEKLİYOR
+[4] Facebook
+	URL:  https://www.facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion/
+	Durum: BEKLİYOR
+[5] Def Con Forum
+	URL: http://g7ejphhubv5idbbu3hb3wawrs5adw7tkx7yjabnf65xtzztgg4hcsqqd.onion/
+	Durum: BEKLİYOR
+[6] ProtonMail
+	URL: https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion/
+	Durum: BEKLİYOR
+[7] Pitch Forum
+	URL: https://pitchprash4aqilfr7sbmuwve3pnkpylqwxjbj2q5o4szcfeea6d27yd.onion/
+	Durum: BEKLİYOR
+[8] Breaking bad Forum
+	URL: http://bbzzzsvqcrqtki6umym6itiixfhni37ybtt7mkbjyxn2pgllzxf2qgyd.onion/
+	Durum: BEKLİYOR
+[9] Ramble Forum
+	URL: http://rambleeeqrhty6s5jgefdfdtc6tfgg4jj6svr4jpgk4wjtg3qshwbaad.onion/
+	Durum: BEKLİYOR
+[10] Shadow Forum
+	URL: http://w4ljqtyjnxinknz4hszn4bsof7zhfy5z2h4srfss4vvkoikiwz36o3id.onion/
+	Durum: BEKLİYOR
+[11] TorForum
+	URL: https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion/
+	Durum: BEKLİYOR
+[12] Deep Answers
+	URL: http://deepa2kol4ur4wkzpmjf5rf7lvsflzisslnrnr2n7goaebav4j6w7zyd.onion/
+	Durum: BEKLİYOR
+[13] GhostHub Forum
+	URL: http://aniozgjggq2pzxznogrlpoioks7iu3emj6bwebz3yptl4pkoukzd6kid.onion/
+	Durum: BEKLİYOR
+
+--------------------------------------------------
+TARAMA SONUÇLARI :
+--------------------------------------------------
+[18:26:49] Dark_Net_Army Forum -> SUCCESS
+	Detay: Aktif (45.10s) - Kanıt: screenshots/Dark_Net_Army_Forum_1766849209.png
+--------------------------------------------------
+[18:27:12] BBC -> SUCCESS
+	Detay: Aktif (22.46s) - Kanıt: screenshots/BBC_1766849232.png
+--------------------------------------------------
+[18:27:29] Reddit Forum -> SUCCESS
+	Detay: Aktif (16.35s) - Kanıt: screenshots/Reddit_Forum_1766849249.png
+--------------------------------------------------
+[18:28:00] Facebook -> FAIL
+	Detay: Erişilemedi / Zaman Aşımı
+--------------------------------------------------
+[18:28:18] Def Con Forum -> SUCCESS
+	Detay: Aktif (18.17s) - Kanıt: screenshots/Def_Con_Forum_1766849298.png
+--------------------------------------------------
+[18:28:36] ProtonMail -> SUCCESS
+	Detay: Aktif (18.26s) - Kanıt: screenshots/ProtonMail_1766849316.png
+--------------------------------------------------
+[18:28:40] Pitch Forum -> FAIL
+	Detay: Erişilemedi / Zaman Aşımı
+--------------------------------------------------
+[18:28:54] Breaking bad Forum -> SUCCESS
+	Detay: Aktif (13.51s) - Kanıt: screenshots/Breaking_bad_Forum_1766849334.png
+--------------------------------------------------
+[18:29:14] Ramble Forum -> SUCCESS
+	Detay: Aktif (20.27s) - Kanıt: screenshots/Ramble_Forum_1766849354.png
+--------------------------------------------------
+[18:29:34] Shadow Forum -> SUCCESS
+	Detay: Aktif (19.24s) - Kanıt: screenshots/Shadow_Forum_1766849374.png
+--------------------------------------------------
+[18:29:50] TorForum -> SUCCESS
+	Detay: Aktif (15.53s) - Kanıt: screenshots/TorForum_1766849390.png
+--------------------------------------------------
+[18:30:23] Deep Answers -> SUCCESS
+	Detay: Aktif (33.20s) - Kanıt: screenshots/Deep_Answers_1766849423.png
+--------------------------------------------------
+[18:31:44] GhostHub Forum -> SUCCESS
+	Detay: Aktif (80.75s) - Kanıt: screenshots/GhostHub_Forum_1766849504.png
+--------------------------------------------------
