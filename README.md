@@ -30,6 +30,7 @@ go mod tidy
 1.  **Tor Bağlantısı:** Tor Browser'ı başlatın ve "Connect" butonuna basarak ağa bağlanın. Tarayıcıyı kapatmayın, simge durumuna küçültün.
 
 2.  **Hedef Belirleme:** targets.yaml dosyasını açın ve izlemek istediğiniz .onion adreslerini ekleyin:
+   
 - name: "Örnek Forum"
   url: "[http://ornekadres...onion/]"
 
