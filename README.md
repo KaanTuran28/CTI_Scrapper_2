@@ -22,14 +22,14 @@ Projenin çalışması için sisteminizde aşağıdakilerin yüklü olması gere
 
 Terminali açın ve aşağıdaki komutları sırasıyla uygulayın:
 
-git clone https://github.com/KaanTuran28/CTI_Scrapper_2.git
-cd CTI_Scrapper
-go mod tidy
+1. git clone https://github.com/KaanTuran28/CTI_Scrapper_2.git
+2. cd CTI_Scrapper
+3. go mod tidy
 
 ## Kullanım
-**Tor Bağlantısı:** Tor Browser'ı başlatın ve "Connect" butonuna basarak ağa bağlanın. Tarayıcıyı kapatmayın, simge durumuna küçültün.
+1.  **Tor Bağlantısı:** Tor Browser'ı başlatın ve "Connect" butonuna basarak ağa bağlanın. Tarayıcıyı kapatmayın, simge durumuna küçültün.
 
-**Hedef Belirleme:** targets.yaml dosyasını açın ve izlemek istediğiniz .onion adreslerini ekleyin:
+2.  **Hedef Belirleme:** targets.yaml dosyasını açın ve izlemek istediğiniz .onion adreslerini ekleyin:
    
 - name: "Örnek Forum"
   url: "[http://ornekadres...onion/]"
