@@ -1,0 +1,46 @@
+[2025-1227-12 18:25:56] [INFO] === Yeni oturum başlatıldı ===
+[2025-1227-12 18:25:56] [INFO] Program başlatıldı
+[2025-1227-12 18:25:56] [INFO] Tor port kontrolü başlatıldı (Port: 9150)
+[2025-1227-12 18:25:56] [SUCCESS] Tor portu açık: 127.0.0.1:9150
+[2025-1227-12 18:25:58] [SUCCESS] IP Maskeleme Başarılı. Çıkış IP: Gizli (Tor Exit Node)
+[2025-1227-12 18:25:58] [INFO] targets.yaml okundu - 13 forum yüklendi
+[2025-1227-12 18:25:58] [SUCCESS] Scan raporu oluşturuldu: logs/scan_report.log
+[2025-1227-12 18:26:04] [INFO] 'Scrape all forums' seçildi
+[2025-1227-12 18:26:04] [INFO] Scanning forum: Dark_Net_Army Forum
+[2025-1227-12 18:26:49] [SUCCESS] Screenshot captured for Dark_Net_Army Forum (248751 bytes)
+[2025-1227-12 18:26:49] [SUCCESS] Screenshot saved: screenshots/Dark_Net_Army_Forum_1766849209.png
+[2025-1227-12 18:26:50] [INFO] Scanning forum: BBC
+[2025-1227-12 18:27:12] [SUCCESS] Screenshot captured for BBC (715205 bytes)
+[2025-1227-12 18:27:12] [SUCCESS] Screenshot saved: screenshots/BBC_1766849232.png
+[2025-1227-12 18:27:12] [INFO] Scanning forum: Reddit Forum
+[2025-1227-12 18:27:29] [SUCCESS] Screenshot captured for Reddit Forum (69586 bytes)
+[2025-1227-12 18:27:29] [SUCCESS] Screenshot saved: screenshots/Reddit_Forum_1766849249.png
+[2025-1227-12 18:27:29] [INFO] Scanning forum: Facebook
+[2025-1227-12 18:28:00] [ERROR] Scraping failed for Facebook: page load error net::ERR_TIMED_OUT
+[2025-1227-12 18:28:00] [INFO] Scanning forum: Def Con Forum
+[2025-1227-12 18:28:18] [SUCCESS] Screenshot captured for Def Con Forum (893632 bytes)
+[2025-1227-12 18:28:18] [SUCCESS] Screenshot saved: screenshots/Def_Con_Forum_1766849298.png
+[2025-1227-12 18:28:18] [INFO] Scanning forum: ProtonMail
+[2025-1227-12 18:28:36] [SUCCESS] Screenshot captured for ProtonMail (253411 bytes)
+[2025-1227-12 18:28:36] [SUCCESS] Screenshot saved: screenshots/ProtonMail_1766849316.png
+[2025-1227-12 18:28:36] [INFO] Scanning forum: Pitch Forum
+[2025-1227-12 18:28:40] [ERROR] Scraping failed for Pitch Forum: page load error net::ERR_CERT_AUTHORITY_INVALID
+[2025-1227-12 18:28:40] [INFO] Scanning forum: Breaking bad Forum
+[2025-1227-12 18:28:54] [SUCCESS] Screenshot captured for Breaking bad Forum (22478 bytes)
+[2025-1227-12 18:28:54] [SUCCESS] Screenshot saved: screenshots/Breaking_bad_Forum_1766849334.png
+[2025-1227-12 18:28:54] [INFO] Scanning forum: Ramble Forum
+[2025-1227-12 18:29:14] [SUCCESS] Screenshot captured for Ramble Forum (392938 bytes)
+[2025-1227-12 18:29:14] [SUCCESS] Screenshot saved: screenshots/Ramble_Forum_1766849354.png
+[2025-1227-12 18:29:15] [INFO] Scanning forum: Shadow Forum
+[2025-1227-12 18:29:34] [SUCCESS] Screenshot captured for Shadow Forum (153421 bytes)
+[2025-1227-12 18:29:34] [SUCCESS] Screenshot saved: screenshots/Shadow_Forum_1766849374.png
+[2025-1227-12 18:29:34] [INFO] Scanning forum: TorForum
+[2025-1227-12 18:29:50] [SUCCESS] Screenshot captured for TorForum (253411 bytes)
+[2025-1227-12 18:29:50] [SUCCESS] Screenshot saved: screenshots/TorForum_1766849390.png
+[2025-1227-12 18:29:50] [INFO] Scanning forum: Deep Answers
+[2025-1227-12 18:30:23] [SUCCESS] Screenshot captured for Deep Answers (772860 bytes)
+[2025-1227-12 18:30:23] [SUCCESS] Screenshot saved: screenshots/Deep_Answers_1766849423.png
+[2025-1227-12 18:30:23] [INFO] Scanning forum: GhostHub Forum
+[2025-1227-12 18:31:44] [SUCCESS] Screenshot captured for GhostHub Forum (107715 bytes)
+[2025-1227-12 18:31:44] [SUCCESS] Screenshot saved: screenshots/GhostHub_Forum_1766849504.png
+[2025-1227-12 18:31:52] [INFO] === Oturum sonlandırıldı ===
