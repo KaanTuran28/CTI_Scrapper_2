@@ -6,25 +6,25 @@ Bu proje, manuel istihbarat toplama süreçlerini otomatize ederek analistlere h
 
 ## Temel Özellikler
 
-* ** Tam Gizlilik:** Tüm ağ trafiğini yerel **Tor SOCKS5 Proxy (127.0.0.1:9150)** üzerinden geçirerek gerçek IP adresinizi gizler.
-* ** Görsel Kanıt:** Ziyaret edilen sitelerin anlık ekran görüntüsünü (.png) yüksek kalitede kaydeder.
-* ** Otomatik Raporlama:** Taranan hedeflerin durumunu (Başarılı/Başarısız) ve yanıt sürelerini detaylı bir log dosyasına işler.
-* ** Hata Toleransı:** Yanıt vermeyen veya kapanan siteler programı durdurmaz; hata yönetilir ve tarama devam eder.
+* **Tam Gizlilik:** Tüm ağ trafiğini yerel **Tor SOCKS5 Proxy (127.0.0.1:9150)** üzerinden geçirerek gerçek IP adresinizi gizler.
+* **Görsel Kanıt:** Ziyaret edilen sitelerin anlık ekran görüntüsünü (.png) yüksek kalitede kaydeder.
+* **Otomatik Raporlama:** Taranan hedeflerin durumunu (Başarılı/Başarısız) ve yanıt sürelerini detaylı bir log dosyasına işler.
+* **Hata Toleransı:** Yanıt vermeyen veya kapanan siteler programı durdurmaz; hata yönetilir ve tarama devam eder.
 
 ## Gereksinimler
 
 Projenin çalışması için sisteminizde aşağıdakilerin yüklü olması gerekir:
 
-1.  **Go (Golang):** (Sürüm 1.20 ve üzeri önerilir)
-2.  **Tor Browser:** Programın Tor ağına tünel açabilmesi için arka planda açık olması gerekir.
+*  **Go (Golang):** (Sürüm 1.20 ve üzeri önerilir)
+*  **Tor Browser:** Programın Tor ağına tünel açabilmesi için arka planda açık olması gerekir.
 
 ## Kurulum
 
 Terminali açın ve aşağıdaki komutları sırasıyla uygulayın:
 
-1. git clone https://github.com/KaanTuran28/CTI_Scrapper_2.git
-2. cd CTI_Scrapper
-3. go mod tidy
+*  git clone https://github.com/KaanTuran28/CTI_Scrapper_2.git
+*  cd CTI_Scrapper
+*  go mod tidy
 
 ## Kullanım
 1.  **Tor Bağlantısı:** Tor Browser'ı başlatın ve "Connect" butonuna basarak ağa bağlanın. Tarayıcıyı kapatmayın, simge durumuna küçültün.
